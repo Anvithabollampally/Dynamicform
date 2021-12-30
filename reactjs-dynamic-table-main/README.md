@@ -3,8 +3,6 @@
 
 > This is the dynamic table made with React Js.
 
-<a href="https://reactjs-dynamic-table.herokuapp.com/">Demo Link </a>
-<a href="https://drive.google.com/file/d/1bZck6cWiVJLCVUtpfNWU0_i8_4pFEfTf/view?usp=sharing">Demo Video </a>
 
 ### Features :-
 
@@ -20,16 +18,6 @@
 
 - Export Added Data To JSON File
 
-
-Home Page:-
-
-![Screenshot (11).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1622624348934/6brxf9PO0S.png)
-
-
-Create Table Page:-
-
-![Screenshot (10).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1622624373181/2uNMpa1c4.png)
-
 # Project Download Procedure:-
 
 1.  Download this repository as zip.
@@ -43,7 +31,6 @@ to install dependencies [make sure you have installed yarn]
 ``` yarn start ``` 
 to start the development server
 
-## Enjoy Browsing!!
  
 
 
